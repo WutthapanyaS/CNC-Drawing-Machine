@@ -1,4 +1,4 @@
-# CNC-Drawing-Machine-V1
+# CNC-Drawing-Machine
 ## 3D Parts and Mechanical Design
 
 My teammate [@jnicha-20](https://github.com/jnicha-20)
