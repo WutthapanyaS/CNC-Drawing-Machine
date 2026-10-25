@@ -1,2 +1,7 @@
 # CNC-Drawing-Machine-V1
-This CNC drawing machine is a team project that turns digital designs into pen drawings. Designs are prepared in Inkscape, converted into G-code, and sent through Universal G-code Sender (UGS) to an Arduino Uno running GRBL. Two stepper motors control movement along the X and Y axes, while a servo raises and lowers the pen.
+## 3D Parts and Mechanical Design
+
+My teammate [@jnicha-20](https://github.com/jnicha-20)
+contributed the 3D parts and mechanical references.
+
+[View 3D Parts Repository](https://github.com/jnicha-20/CNC-Drawing-Machine-3D-Parts)
