@@ -1,6 +1,6 @@
 # CNC-Drawing-Machine
-![CNC Drawing Machine - View 1](images/cnc-machine-1.jpg)
-![CNC Drawing Machine - View 2](images/cnc-machine-2.jpg)
+![CNC Drawing Machine - View 1](images/cnc-machine-1.png)
+![CNC Drawing Machine - View 2](images/cnc-machine-2.png)
 
 ## 3D Parts and Mechanical Design
 My teammate [@jnicha-20](https://github.com/jnicha-20)
